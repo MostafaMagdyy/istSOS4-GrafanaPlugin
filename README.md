@@ -1,2 +1,2 @@
 # istSOS4-GrafanaPlugin
-A Grafana Plugin to Create Customized Dashboards
+A Grafana Plugin to Create Customized Dashboards 
